@@ -1,0 +1,16 @@
+{
+  "name": "btc_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bitcoin-address-generator": "file:bitcoin-address-generator"
+  }
+}
